@@ -1,5 +1,5 @@
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit [^1]. Mauris dapibus porta lacus, ac rhoncus risus placerat non[^test]. Mauris mollis tortor ac metus porta nec rutrum [elit ultrices][ref1].
+Sometimes the best person to learn stuff from is the person who's a few steps ahead of you on the learning curve. [elit ultrices][ref1].
 
 ## TEST
 
