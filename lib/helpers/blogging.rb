@@ -1,7 +1,7 @@
 module Nanoc3::Helpers::Blogging
 
-	def prepare_feed(params)
-		# Extract parameters
+	def prepare_feed(params)		
+		# Extract parameters		
 		@item[:limit] ||= 10
 		@item[:articles] = params[:articles] || latest_articles(10) || []
 		@item[:content_proc] = params[:content_proc] || lambda { |a| a.reps[0].content_at_snapshot(:pre)}
@@ -16,6 +16,7 @@ module Nanoc3::Helpers::Blogging
 	end
 
 	def rss_feed(params={})
+		return
 		require 'builder'
 		require 'time'
 		prepare_feed params
@@ -53,6 +54,7 @@ module Nanoc3::Helpers::Blogging
 
 	# Redefine atom_feed method
 	def atom_feed(params={})
+	  return
 		require 'builder'
 		require 'time'
 		prepare_feed params

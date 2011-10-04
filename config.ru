@@ -2,8 +2,9 @@
 # 1) Rack-rewrite to append "/index.html" to URLs without "."
 # 2) Rack::Static to serve static files
 
-gem 'rack-rewrite', '~> 1.0.0'
+#gem 'rack-rewrite', '~> 1.0.0'
 require 'rack/rewrite'
+
 use Rack::Rewrite do
   r301 %r{^([^\.]*[^\/])$}, '$1/'
   r301 %r{^(.*\/)$}, '$1index.html'
