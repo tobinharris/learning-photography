@@ -1,20 +1,30 @@
 ---
-title: Xylophones are cool
+title: Shoot in Manual? WTF!?
 order: 10
 type: article
 date: 2011-06-09 12:40:00 +02:00
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dapibus porta lacus, ac rhoncus risus placerat non. Mauris mollis tortor ac metus porta nec rutrum elit ultrices. Nam ac felis nisi, quis scelerisque velit. Donec interdum eros a diam sollicitudin convallis. Donec lacinia lacus quis erat elementum rutrum. Proin ut augue sem. Nam quis turpis sem. Nunc et nisi orci. Nunc fringilla, urna ut interdum vehicula, lorem velit euismod enim, at faucibus dolor quam quis ligula. Vestibulum sagittis augue at purus pharetra ultrices. Nullam ac enim tortor. Nulla accumsan vehicula leo, eget mollis magna vehicula at. Nulla ante nisi, rutrum eget varius cursus, commodo sit amet odio.
+As a complete photo amateur, I had no clue why the pro's shot in manual mode. It seemed really 'old school'. For instance, modern cameras can get awesome piccies, so why do we even need manual Mode? Why bother learning all that crap when the camera takes great pictures effortlessly?
 
-![xylophone](/_media/xylophone1.jpg 'This is a photo of a xylophone')
+I was curios to know what the big deal was. I wanted to find out if Manual is still relevant with today's amazing cameras. So, I started reading around. At first I read "Understanding Exposure" which kind of explained all the reasons you'd want to shoot manual. But you know what? I still didn't really "get it". This is one of the problems with reading; it often has to be combined with experience for it to all make sense. It took me a good 3 months to "get" manual.
 
-In aliquam, velit non aliquet rutrum, arcu nunc adipiscing tellus, a imperdiet nunc risus ac enim. Donec sit amet felis at sapien interdum mollis. Nunc hendrerit odio laoreet tellus aliquet dictum elementum nibh laoreet. Nulla eu massa a dolor ullamcorper suscipit semper nec ligula. Vivamus consectetur vehicula lectus quis sagittis.
+So I want to help you get it. Because it's actually still pretty important. You don't *have* to shoot manual, but it suits me well and lets me get good photos more often. In short, your modern fancy camera won't always get you good photos.  Let's look at why.
 
-* Morbi velit urna, rutrum nec suscipit ac, imperdiet vel lacus.
-* Duis suscipit faucibus sapien, vel auctor elit volutpat ac.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-* Maecenas pharetra nunc eget ligula lacinia eget dignissim enim malesuada.
+### Why your modern fancy camera still needs Manual mode
 
-Proin suscipit gravida mauris ut cursus. Aliquam placerat faucibus interdum. Nam in fringilla ipsum. Nullam tincidunt tristique lorem et blandit. Cras faucibus pellentesque est, feugiat feugiat massa posuere nec. Nullam mattis accumsan ante, eu sollicitudin tellus tempus in. Donec eget nunc mauris. Nunc non libero est, sit amet rutrum dolor. Nam malesuada sem in orci tincidunt vulputate. Morbi orci arcu, volutpat et adipiscing ut, ultricies et nisi. Ut aliquam commodo urna, non iaculis metus luctus vel. Fusce tincidunt sapien sit amet lacus aliquam consequat ut in lectus. Sed laoreet risus non augue placerat laoreet. Vestibulum tortor velit, volutpat eu condimentum et, sagittis vel odio. Praesent ullamcorper varius ligula sed aliquam.
+Let's look at some examples of where your own skill with Manual mode can beat the modern 2012 DSLR's judgement. I'll start with some examples.
 
+You're on a weekend break, and have been out for dinner and beers. You're walking back to the hotel with your good lady. You cross this awesome creepy bridge to get over the river back to your hotel. The moon light and street lights make the bridge look really interesting. You want to capture that mood in a photo. 
+
+In summary, you're a bit drunk and it's dark.
+
+Here's the piccy I got in manual mode. 
+
+![Creepy Bridge](http://farm7.static.flickr.com/6209/6118156644_bdac37a086_b.jpg 'Creepy Bridge')
+
+You're probably thinking "What's so special about that!". Well, it's not amazing or anything, but it could have easily come out like total rubbish in **Auto** mode. Here's why:
+
+- The camera would have wanted to use the flash. The flash light would have killed a lot of the nice colours coming from lights in the scene. The flash would have killed the mood. How to fix? Turn off the flash :)
+- It's quite dark and you've turned off the flash, so the camera would have wanted a slow shutter speed to make up for the lack of light. Photos look blurry at a slow shutter speeds unless your hand is rock steady. Which it won't be when you've had wine. How to fix? Set your shutter speed manually to something faster so you're less likely to get shake. The picture will come out overly dark, but it's easy to fix in Photoshop, Lightroom or Aperture or whatever.
+- The picture's going to be even darker without flash and slow shutter speed, so the camera would want to open up your lense aperture to let more light in. When the lense is open less of the piccy is in focus, which can ruin the shot a bit. So, you want to override the cameras decision there too.
